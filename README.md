@@ -1,6 +1,10 @@
 # health_practice
 
-A new Flutter project.
+Here I implement the Flutter Health package to obtain health data from a mobile device
+
+
+
+Below are instructions provided from a basic Flutter app template.
 
 ## Getting Started
 
